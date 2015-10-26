@@ -1,0 +1,10 @@
+/com
+/dbconfig.properties
+/ehcache.xml
+/log4j.properties
+/messages.properties
+/spring-mvc-context.xml
+/spring-mvc-hibernate.xml
+/spring-mvc.xml
+/umm-ds.xml
+/umm-mvc.xml

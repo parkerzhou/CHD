@@ -1,0 +1,11 @@
+
+#sqlserver2005\u57fa\u7840\u6570\u636e\u5e93\u8fde\u63a5\u53c2\u6570JTDS\u65b9\u5f0f
+hibernate.dialect=org.hibernate.dialect.SQLServerDialect
+jdbc.driverClassName.sqlserver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+validationQuery.sqlserver=SELECT 1
+jdbc.url.chcrm=jdbc:jtds:sqlserver://ser:1433/CHJMS
+jdbc.url.chdpsdb=jdbc:jtds:sqlserver://ser:1433/chdpsdb
+jdbc.username.chcrm=admin_chp
+jdbc.password.chcrm=admin_chp
+jdbc.dbType=sqlserver2005
+
